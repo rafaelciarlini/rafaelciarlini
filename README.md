@@ -5,6 +5,6 @@
 
 # Rafael Ciarlini
 
-AI Enthusiast :)
+Brazilian ML Engineer/Data Scientist
 
 
